@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dxiangwiki/lire.git"
+    "url": "https://github.com/dxiangwiki/lire.git"
   },
   "bugs": {
     "url": "https://github.com/dxiangwiki/lire/issues"
