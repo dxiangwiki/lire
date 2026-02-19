@@ -1,0 +1,32 @@
+{
+  "name": "lire",
+  "version": "1.0.0",
+  "description": "Lire - 轻一点，快一点，简单一点的前端框架",
+  "main": "dist/lire.js",
+  "module": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "lire",
+    "frontend",
+    "framework",
+    "lightweight",
+    "reactive"
+  ],
+  "author": "董翔 <3631247406@qq.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxiangwiki/lire.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dxiangwiki/lire/issues"
+  },
+  "homepage": "https://github.com/dxiangwiki/lire#readme",
+  "devDependencies": {
+    "esbuild": "^0.19.11"
+  }
+}
